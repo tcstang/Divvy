@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Divvy</string>
+    <string name="title_activity_add_divee">AddDivee</string>
+</resources>
