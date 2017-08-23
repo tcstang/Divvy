@@ -20,6 +20,6 @@ public class ReceiptDataProvider {
                 "TOTAL 30.69\n" +
                 "BaTance Due 30.69\n" +
                 "Thank you for your patronage!";
-        return examplestring;
+        return exampleString;
     }
 }
